@@ -1,0 +1,13 @@
+<package format="2">
+  <name>sisl</name>
+  <version>0.0.0</version>
+  <description>SISL is a comprehensive NURBS library for the modeling and interrogation of curves and surfaces.</description>
+
+  <maintainer email="jan.b.thomassen@gmail.com">Jan Thomassen</maintainer>
+  <maintainer email="Tor.Dokken@sintef.no">Tor Dokken</maintainer>
+
+  <license>AGPL-3.0</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+</package>
+
